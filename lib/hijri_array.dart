@@ -44,18 +44,18 @@ const Map<int, String> arMonthNames = {
 };
 
 const Map<int, String> trMonthNames = {
-  1: 'MUHARREM',
-  2: 'SAFER',
-  3: 'REBİÜLEVVEL',
-  4: 'REBİÜLAHİR',
-  5: 'CEMAZİYELEVVEL',
-  6: 'CEMAZİYELAHİR',
-  7: 'RECEP',
-  8: 'ŞABAN',
-  9: 'RAMAZAN',
-  10: 'ŞEVVAL',
-  11: 'ZİLKADE',
-  12: 'ZİLHİCCE'
+  1: 'Muharrem',
+  2: 'Safer',
+  3: 'Rebiülevvel',
+  4: 'Rebiülahir',
+  5: 'Cemaziyelevvel',
+  6: 'Cemaziyelahir',
+  7: 'Recep',
+  8: 'Şaban',
+  9: 'Ramazan',
+  10: 'Şevval',
+  11: 'Zilkade',
+  12: 'Zilhicce'
 };
 
 const Map<int, String> arMonthShortNames = {
@@ -74,18 +74,18 @@ const Map<int, String> arMonthShortNames = {
 };
 
 const Map<int, String> trMonthShortNames = {
-  1: 'MUHRM',
-  2: 'SAFER',
-  3: 'REBİ1',
-  4: 'REBİ2',
-  5: 'CEMAZ1',
-  6: 'CEMAZ2',
-  7: 'RECEP',
-  8: 'ŞABAN',
-  9: 'RAMZAN',
-  10: 'ŞEVVAL',
-  11: 'ZİLKD',
-  12: 'ZİLHİC'
+  1: 'Muhrm',
+  2: 'Safer',
+  3: 'Rebi̇1',
+  4: 'Rebi̇2',
+  5: 'Cemaz1',
+  6: 'Cemaz2',
+  7: 'Recep',
+  8: 'Şaban',
+  9: 'Ramzan',
+  10: 'Şevval',
+  11: 'Zi̇lkd',
+  12: 'Zi̇lhi̇c'
 };
 
 const Map<int, String> wdNames = {
